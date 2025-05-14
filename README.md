@@ -34,11 +34,4 @@
 
 ---
 
-### 📈 Estatísticas do GitHub:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrey-nagata&show_icons=true&count_private=true&hide=prs&theme=github_dark" alt="Estatísticas do GitHub" />
-</div>
-
-
 
