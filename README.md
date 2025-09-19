@@ -6,8 +6,12 @@
 ### 🚀 Portfólio
 - 🌐 **[andreynagata.vercel.app](https://andreynagata.vercel.app/)** → Meus projetos e experiências.
 
+---
+
 ### 🌎 Projetos em Destaque
-- 🐋 **[Life Ocean](https://pedroggutierre.github.io/LifeOceanFront/)** → Protótipo de site para ONG de preservação dos oceanos.
+
+- 🐋 **[Life Ocean](https://pedroggutierre.github.io/LifeOceanFront/)** → Protótipo de site para ONG de preservação dos oceanos.  
+- 💹 **[Cryptexa](https://cryptexa.vercel.app/)** → Dashboard de criptomoedas responsivo, integrado à **API da Binance**, com gráficos interativos em tempo real e design moderno.
 
 ---
 
