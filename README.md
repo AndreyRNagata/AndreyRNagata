@@ -1,5 +1,5 @@
 <h1 align="center">Eu sou o Andrey Nagata</h1>
-<h3 align="center">Engenheiro de Software • Estagiário na 10X Digital</h3>
+<h3 align="center">Engenheiro de Software • Estagiário Itaú Unibanco</h3>
 
 ---
 
